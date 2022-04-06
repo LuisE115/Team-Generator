@@ -1,0 +1,22 @@
+{
+  "name": "team-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuisE115/Team-Generator.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuisE115/Team-Generator/issues"
+  },
+  "homepage": "https://github.com/LuisE115/Team-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.2.2"
+  }
+}
