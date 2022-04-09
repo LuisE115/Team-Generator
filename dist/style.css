@@ -1,0 +1,38 @@
+/* Style for generated html */
+* {
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+}
+
+header {
+    text-align: center;
+    height: 4rem;
+    background: rgb(232,71,86);
+    color: white;
+    align-content: center;
+    padding: 4rem;
+}
+
+.content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card {
+    color: grey;
+    border: 3px solid grey;
+    border-radius: 3%;
+    margin: 1rem;
+    padding: 0.5rem;
+}
+
+.card h2 {
+    background: rgb(171, 217, 255);
+    text-align: center;
+}
+
+.card:hover {
+    transform: scale(1.3);
+}
